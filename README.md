@@ -12,7 +12,7 @@ The **first analysis** aims to map the key drivers of revenue for our business, 
 
 A valuable insight is **the strength of beer among bars**, especially in Campinas, while Rio de Janeiro shows diverse potential with nab generating **$1.01 million in restaurants**. On the other hand, shops, with a minimal contribution of just **$11 thousand**, and São Paulo, with a limited share of $142 thousand, indicate **areas that require attention due to underperformance**. Based on this, the suggestion is to **intensifying investment in beer**, prioritizing bars in **Campinas and Rio de Janeiro** to maximize this trend, exploring opportunities with nab in Rio’s restaurants to diversify revenue, implementing **revitalization strategies** for shops such as promotions or new incentives, **directing resources to São Paulo to boost its relevance in revenue**, and providing ongoing strategic support to **clients 75361105 and 37404863** to ensure the continuity and growth of their leading performance.
 
-![Screenshot 2025-03-06 at 09 04 57](https://github.com/user-attachments/assets/6d97bd74-f3fc-4518-a26b-71bcdbd1b0c1)
+![Screenshot 2025-03-06 at 10 25 27](https://github.com/user-attachments/assets/062b0dfd-ac0d-4076-8159-f4c21194b998)
 
 > ANALYSIS OF RECURRENCE
 
@@ -20,7 +20,7 @@ The **second analysis** aims to identify which products and client categories de
 
 The **temporal analysis** reveals a growing trend in orders throughout the year, with **notable peaks in September**, suggesting a potential **seasonal pattern**. Based on this,the recommendation is to **intensify efforts to retain bars and restaurants**, prioritizing the promotion of products like **49121 beer and nab**, especially **during peak periods such as September**, while implementing incentives to boost shop recurrence and monitoring the performance of soda and liquor to explore future growth opportunities.
 
-![Screenshot 2025-03-06 at 09 05 53](https://github.com/user-attachments/assets/aa2773f3-d136-4fd8-aadc-dccef4ce88a9)
+![Screenshot 2025-03-06 at 10 25 38](https://github.com/user-attachments/assets/99f60828-9073-4e7c-a461-e1470d4d77ea)
 
 > VALUATION OF SUCCESS GOALS
 
@@ -28,7 +28,7 @@ The **third analysis** aims to*assess the percentage of combinations of products
 
 Based on these insights, I recommend adjusting the targets for **users like 75361105** to better reflect actual performance, recognizing the consistency of **86808677 and 83334046** with incentives, and focusing on boosting revenue from **shops and São Paulo**, which lag in meeting goals. Additionally, exploring strategies to enhance beer performance in Campinas and addressing the underperformance of liquor and soda could help align results more closely with our objectives.
 
-![Screenshot 2025-03-06 at 09 06 10](https://github.com/user-attachments/assets/aad7f3a6-6cf7-49e7-bf88-91017d1bdab8)
+![Screenshot 2025-03-06 at 10 25 55](https://github.com/user-attachments/assets/189dbdbc-2a21-4ddf-b5d6-a57563edf66f)
 
 # ✅ CONCLUSION
 
