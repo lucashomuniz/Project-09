@@ -1,4 +1,4 @@
-# ✅ PROJECT-16
+# ✅ PROJECT-15
 
 In this project, we address a complex challenge to transform **raw data** into **actionable business insights**, tackling the absence of predefined variable definitions across multiple datasets. The methodology initiates with the ingestion of all databases into the **Google Cloud Platform (GCP)**, where data transformation is executed through **BigQuery** with **SQL** language, providing a scalable and efficient processing environment. A direct integration between GCP and **Power BI** enables near **real-time data access**, bypassing manual pipelines and intermediate files, which **optimizes the workflow** for enhanced productivity and a smoother analytical process. A key step involves conducting a detailed examination of each variable and dataset, utilizing **statistical correlation analyses** to pinpoint the most influential data elements. The core objective is to refine expertise in **Data Modeling**, **DAX**, **M**, **Data Visualization** and **Dashboard-Driven Storytelling**, in order to optimize the processes and add value to the business.
 
