@@ -4,8 +4,6 @@ In this project, we address a complex challenge to transform **raw data** into *
 
 **Keywords**: Data Analysis, Business Analysis, PowerBI, PowerQuery, DAX, M, Data Visualization, Google Cloud Platform, BigQuery, SQL.
 
-**Dashboard**: https://app.powerbi.com/reportEmbed?reportId=fbd99631-2b92-45af-a89b-56eaf2ec1316&autoAuth=true&ctid=d69a7783-e937-4232-ba85-2098408382c8
-
 # ✅ PROCESS
 
 > MAPPING REVENUE LEADERS
@@ -35,3 +33,5 @@ Based on these insights, I recommend adjusting the targets for **users like 7536
 # ✅ CONCLUSION
 
 This project successfully **transformed raw datasets into strategic business insights**, driven by a rigorous methodology that utilized the **Google Cloud Platform (GCP) and SQL** for scalable data processing, seamlessly integrated with **Power BI** for dynamic visualization. These dashboards, as seen in the analyses of revenue leadership, order recurrence, and success goal evaluation, provided a platform to sharpen our expertise in **Data Modeling, DAX, M, and Data Visualization**. The iterative development of visual tools—like revenue distribution charts and time-series order patterns—enhanced our ability to **craft compelling dashboard-driven narratives**, deepening our understanding of client and product dynamics across regions. By prioritizing the development of these technical skills, the project **overcame the challenge of undefined data variables** and laid a solid foundation for future analyses, delivering a versatile and insightful reporting framework to support strategic decision-making.
+
+**Dashboard**: https://app.powerbi.com/reportEmbed?reportId=fbd99631-2b92-45af-a89b-56eaf2ec1316&autoAuth=true&ctid=d69a7783-e937-4232-ba85-2098408382c8
