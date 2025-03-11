@@ -4,6 +4,8 @@ In this project, we address a complex challenge to transform **raw data** into *
 
 **Keywords**: Data Analysis, Business Analysis, PowerBI, PowerQuery, DAX, M, Data Visualization, Google Cloud Platform, BigQuery, SQL.
 
+**Link**: https://app.powerbi.com/links/wNAQqGkCEr?ctid=d69a7783-e937-4232-ba85-2098408382c8&pbi_source=linkShare
+
 # ✅ PROCESS
 
 > MAPPING REVENUE LEADERS
